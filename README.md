@@ -4,7 +4,7 @@ Automate matching of data interview preparation participants based on key goals,
 
 ## Background
 
-The objective is to automate potential matching of participants for data interview preparation based on details collected via this [survey](https://docs.google.com/forms/d/e/1FAIpQLSdEtHH8QJEFisduwK-g2C8cIm3FMcGxSw_Zn42n3ovj9fJFUQ/viewform?usp=sf_link) and/or Linkedin profiles.  The goal of matching is to try and group people with similar goals and expertise together and ultimately improve efficiency in job interview preparation efforts.  The ideal matching algorithm is potentially combination of rules based criteria and modeling.
+The objective is to automate potential matching of participants for data interview preparation based on details collected via this [survey](https://docs.google.com/forms/d/e/1FAIpQLSdEtHH8QJEFisduwK-g2C8cIm3FMcGxSw_Zn42n3ovj9fJFUQ/viewform?usp=sf_link) and/or Linkedin profiles.  The goal of matching is to try and group people with similar goals and expertise together and ultimately improve efficiency in job interview preparation efforts.  The ideal matching algorithm is potentially a combination of rules based criteria, supervised and NLP modeling.
 
 ## Key Tasks
 
